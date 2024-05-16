@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.button {
+  padding: 12px 24px;
+  cursor: pointer;
+}
+
+.search_wrapper {
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: sandybrown;
+}
+
+input {
+  width: 80%;
+  height: 60px;
+  border-radius: 8px;
+  font-size: 18px;
+  padding-left: 20px;
+}
